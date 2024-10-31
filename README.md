@@ -1,3 +1,5 @@
+#Python decoder RISC-V
+
 Este projeto implementa um decodificador de instruções para o conjunto de instruções RISC-V em Python usando MyHDL para simulação de hardware. 
 Ele carrega instruções e dados de arquivos externos, armazena-os em memória, e simula o comportamento de um processador RISC-V executando instruções básicas.
 
@@ -40,8 +42,8 @@ Ao final de todo o processo o pc e incrementado passando assim a outra leitura d
 ![image](https://github.com/user-attachments/assets/5e964094-c641-4841-90a6-08c061ed9843)
 
 
-!créditos ao uso do arquivos defs e das memorias mc_code e mc_data presentes na <matéria(https://medium.com/programmatic/how-to-design-a-risc-v-processor-12388e1163c)>
-e no <repositorio(https://medium.com/programmatic/how-to-design-a-risc-v-processor-12388e1163c)>!
+!créditos ao uso do arquivos defs e das memorias mc_code e mc_data presentes na [matéria](https://medium.com/programmatic/how-to-design-a-risc-v-processor-12388e1163c)
+e encontrados no [repositorio](https://medium.com/programmatic/how-to-design-a-risc-v-processor-12388e1163c)!
 
 
 
