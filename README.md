@@ -22,7 +22,7 @@ Cada instrução é carregada, seu opcode é decodificado, e o tipo de operaçã
 ### Operações ALU: 
 
 Com base em funct3 e funct7 para o tipo RTYPE, o código realiza operações aritméticas e lógicas na ALU, como ADD, SUB, AND, OR, SHIFT, entre outras. 
-O resultado é armazenado nos registradores ou memória. A mesma lógica segue para os outros opcode
+O resultado é armazenado nos registradores ou memória. A mesma lógica segue para os outros opcode.
 
 ![image](https://github.com/user-attachments/assets/f8ec4f3f-9eab-462a-82e7-c89baba2afa8)
 ![image](https://github.com/user-attachments/assets/9e6608a3-0df8-4960-9987-651b4abf4eb0)
@@ -39,7 +39,7 @@ facilitando a visualização do comportamento da execução e deixando mais clar
 ![image](https://github.com/user-attachments/assets/39d2649c-e377-4b00-91ca-b0d691f54ffb)
 
 ### Fim de execução:
-Ao final de todo o processo o pc e incrementado passando assim a outra leitura da memoria 
+Ao final de todo o processo o pc e incrementado passando assim a outra leitura da memoria. 
 
 ![image](https://github.com/user-attachments/assets/5e964094-c641-4841-90a6-08c061ed9843)
 
