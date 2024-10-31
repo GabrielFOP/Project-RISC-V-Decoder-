@@ -19,7 +19,9 @@ Cada instrução é carregada, seu opcode é decodificado, e o tipo de operaçã
 ![image](https://github.com/user-attachments/assets/8bdc3a59-1bc8-43b4-a728-50fe1e71c348)
 ![image](https://github.com/user-attachments/assets/696c08e5-c053-41c0-b5a6-3c05da094584)
 
-### Operações ALU: Com base em funct3 e funct7 para o tipo RTYPE, o código realiza operações aritméticas e lógicas na ALU, como ADD, SUB, AND, OR, SHIFT, entre outras. 
+### Operações ALU: 
+
+Com base em funct3 e funct7 para o tipo RTYPE, o código realiza operações aritméticas e lógicas na ALU, como ADD, SUB, AND, OR, SHIFT, entre outras. 
 O resultado é armazenado nos registradores ou memória. A mesma lógica segue para os outros opcode
 
 ![image](https://github.com/user-attachments/assets/f8ec4f3f-9eab-462a-82e7-c89baba2afa8)
@@ -42,7 +44,7 @@ Ao final de todo o processo o pc e incrementado passando assim a outra leitura d
 ![image](https://github.com/user-attachments/assets/5e964094-c641-4841-90a6-08c061ed9843)
 
 
-**créditos ao uso do arquivos defs e das memorias mc_code e mc_data presentes na [matéria](https://medium.com/programmatic/how-to-design-a-risc-v-processor-12388e1163c)
+**Créditos ao uso do arquivos defs e das memorias mc_code e mc_data presentes na [matéria](https://medium.com/programmatic/how-to-design-a-risc-v-processor-12388e1163c)
 e encontrados no [repositorio](https://github.com/shirishbahirat/cpu)**
 
 
